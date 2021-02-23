@@ -8,5 +8,9 @@ With the assistance of my tutor, I was able to begin the assignment by generatin
 
 ## Screenshot 
 
+![image](https://user-images.githubusercontent.com/77179391/108794490-cd2dd380-7553-11eb-85cc-da6d5a83d507.png)
 
+## Link to Deployed Application
+
+https://jacobscj.github.io/Password-Generator/
 
